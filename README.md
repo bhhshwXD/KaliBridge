@@ -52,7 +52,7 @@ One script, two functions 🔄
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kali-repo-installer.git
+git clone https://github.com/bhhshwXD/KaliBrigde.git
 cd kali-repo-installer
 chmod +x kali-repo.sh
 sudo ./kali-repo.sh
